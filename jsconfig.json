@@ -1,0 +1,24 @@
+// {
+//   "compilerOptions": {
+//     "baseUrl": "./src",
+//     "paths": {
+//       "@components/*": ["./components/*"],
+//       "@pages/*": ["./pages/*"],
+//       "@hooks/*": ["./hooks/*"],
+//       "@api/*": ["./api/*"],
+//       "@utils/*": ["./utils/*"]
+//     }
+//   }
+// }
+
+{
+  "compilerOptions": {
+    // ...
+    "baseUrl": ".",
+    "paths": {
+      "@/*": ["./src/*"],
+      "@/lodu": ["./src/components/*"]
+    }
+    // ...
+  }
+}
