@@ -9,7 +9,6 @@ Welcome to the Apple iPhone 15 project! This project showcases an interactive an
 - [Usage](#usage)
 - [Challenges Faced](#challenges-faced)
 - [Acknowledgments](#acknowledgments)
-- [License](#license)
 
 ## Introduction
 
