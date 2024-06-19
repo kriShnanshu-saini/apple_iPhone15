@@ -47,17 +47,17 @@ Once the development server is running, you can view the project in your browser
 
 ## Challenges Faced
 
-### Video Carousel
+### - Video Carousel
 
 One of the significant challenges I faced was implementing the progress bar for the video carousel. Understanding how it works and making it function correctly was a tough task. However, after some research and experimentation, I was able to grasp the concept and can now build a similar progress bar with some minor adjustments.
 
-### Model Rendering in React with Lighting Configurations
+### - Model Rendering in React with Lighting Configurations
 
 Rendering the 3D model in React using Three.js and configuring the lighting was another challenging aspect. Positioning the lights correctly to achieve the desired effect required a lot of tweaking and testing. This experience taught me the intricacies of working with 3D models and lighting in a web environment.
 
 ## Acknowledgments
 
-This project was made possible under the guidance of the JavaScript Mastery channel on YouTube. Their tutorials and explanations were invaluable in helping me understand the concepts and techniques used in this project.
+This project was made possible under the guidance of the [Javascript Mastery](https://www.youtube.com/@javascriptmastery) channel on YouTube. Their tutorials and explanations were invaluable in helping me understand the concepts and techniques used in this project.
 
 ---
 
