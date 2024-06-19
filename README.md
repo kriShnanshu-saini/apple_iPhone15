@@ -2,6 +2,11 @@
 
 Welcome to the Apple iPhone 15 project! This project showcases an interactive and visually appealing website that highlights the features of the Apple iPhone 15. Built using modern web technologies, this project is a great example of combining GSAP with React and Three.js.
 
+![thumbnail](https://github.com/kriShnanshu-saini/apple_iPhone15/assets/97829983/201c25cd-dcc2-44dd-a04a-70ed7973f128)
+
+
+
+
 ## Table of Contents
 - [Introduction](#introduction)
 - [Technologies Used](#technologies-used)
